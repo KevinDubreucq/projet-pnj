@@ -187,15 +187,15 @@ Merci et bonne lecture. -->
                     <option value="vengeursacre">Vengeur sacré</option>
                 </select><br/>
 
-                <input name="submit" type="submit" form="formulaire" value="Envoyer">
+                <input name="submit" type="submit" value="Envoyer">
             </form>
         </section>
         <section class="fiche">
             <?php
                 if (isset($_POST["submit"])){
                     if ("genre" == "masculin") {
-                        require "Basedonnees.php";
-                        
+                       require "Basedonnees.php";
+                       prenoms_masc();
                     }
                     else {
 

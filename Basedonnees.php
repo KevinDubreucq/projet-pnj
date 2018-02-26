@@ -302,204 +302,155 @@
                 echo "Anes";
                 break;
             case 101: 
-            echo "Angantýr";
-            break;
-            case 1: 
-            echo 
-            "Angel";
-            break;
-            case 1: 
-            echo 
-            "Angelče";
-            break;
-            case 1: 
-            echo 
-            "Angelčo";
-            break;
-            case 1: 
-            echo 
-            "Angele";
-            break;
-            case 1: 
-            echo 
-            "Angelik";
-            break;
-            case 1: 
-            echo 
-            "Angelino";
-            break;
-            case 1: 
-            echo 
-            "Angelko";
-            break;
-            case 1: 
-            echo 
-            "Angi";
-            break;
-            case 1: 
-            echo 
-            "Anjo";
-            break;
-            case 1: 
-            echo 
-            "Annar";
-            break;
-            case 1: 
-            echo 
-            "Annel";
-            break;
-            case 1: 
-            echo 
-            "Annes";
-            break;
-            case 1: 
-            echo 
-            "Ante";
-            break;
-            case 1: 
-            echo 
-            "Anti";
-            break;
-            case 1: 
-            echo 
-            "Anto";
-            break;
-            case 1: 
-            echo 
-            "Antonij";
-            break;
-            case 1: 
-            echo 
-            "Antonijo";
-            break;
-            case 1: 
-            echo 
-            "Antoníus";
-            break;
-            case 1: 
-            echo 
-            "Antun";
-            break;
-            case 1: 
-            echo 
-            "Anže";
-            break;
-            case 1: 
-            echo 
-            "Anzej";
-            break;
-            case 1: 
-            echo 
-            "Anžej";
-            break;
-            case 1: 
-            echo 
-            "Árbjartur";
-            break;
-            case 1: 
-            echo 
-            "Árbjörn";
-            break;
-            case 1: 
-            echo 
-            "Árelíus";
-            break;
-            case 1: 
-            echo 
-            "Arent";
-            break;
-            case 1: 
-            echo 
-            "Árgeir";
-            break;
-            case 1: 
-            echo 
-            "Árgils";
-            break;
-            case 1: 
-            echo 
-            "Arif";
-            break;
-            case 1: 
-            echo 
-            "Arifa";
-            break;
-            case 1: 
-            echo 
-            "Arife";
-            break;
-            case 1: 
-            echo 
-            "Arilíus";
-            break;
-            case 1: 
-            echo 
-            "Aríus";
-            break;
-            case 1: 
-            echo 
-            "Armando";
-            break;
-            case 1: 
-            echo 
-            "Ármann";
-            break;
-            case 1: 
-            echo 
-            "Arnaldur";
-            break;
-            case 1: 
-            echo 
-            "Arnar";
-            break;
-            case 1: 
-            echo 
-            "Arnberg";
-            break;
-            case 1: 
-            echo 
-            "Arnbergur";
-            break;
-            case 1: 
-            echo 
-            "Arnbjörn";
-            break;
-            case 1: 
-            echo 
-            "Arndór";
-            break;
-            case 1: 
-            echo 
-            "Arnej";
-            break;
-            case 1: 
-            echo 
-            "Arnejc";
-            break;
-            case 1: 
-            echo 
-            "Arnel";
-            break;
-            case 1: 
-            echo 
-            "Arnfinnur";
-            break;
-            case 1: 
-            echo 
-            "Arnfreyr";
-            break;
-            case 1: 
-            echo 
-            "Arngeir";
-            break;
-            case 1: 
-            echo 
-            "Arngils";
-            break;
-            case 1: 
-            echo 
-            "Arngrímur";
-            break;
+                echo "Angantýr";
+                break;
+            case 102: 
+                echo "Angel";
+                break;
+            case 103: 
+                echo "Angelče";
+                break;
+            case 104: 
+                echo "Angelčo";
+                break;
+            case 105: 
+                echo "Angele";
+                break;
+            case 106: 
+                echo "Angelik";
+                break;
+            case 107: 
+                echo "Angelino";
+                break;
+            case 108: 
+                echo "Angelko";
+                break;
+            case 109: 
+                echo "Angi";
+                break;
+            case 110: 
+                echo "Anjo";
+                break;
+            case 111: 
+                echo "Annar";
+                break;
+            case 112: 
+                echo "Annel";
+                break;
+            case 113: 
+                echo "Annes";
+                break;
+            case 114: 
+                echo "Ante";
+                break;
+            case 115: 
+                echo "Anti";
+                break;
+            case 116: 
+                echo "Anto";
+                break;
+            case 117: 
+                echo "Antonij";
+                break;
+            case 118: 
+                echo "Antonijo";
+                break;
+            case 119: 
+                echo "Antoníus";
+                break;
+            case 120: 
+                echo "Antun";
+                break;
+            case 121: 
+                echo "Anže";
+                break;
+            case 122: 
+                echo "Anzej";
+                break;
+            case 123: 
+                echo "Anžej";
+                break;
+            case 124: 
+                echo "Árbjartur";
+                break;
+            case 125: 
+                echo "Árbjörn";
+                break;
+            case 126: 
+                echo "Árelíus";
+                break;
+            case 127: 
+                echo "Arent";
+                break;
+            case 128: 
+                echo "Árgeir";
+                break;
+            case 129: 
+                echo "Árgils";
+                break;
+            case 130: 
+                echo "Arif";
+                break;
+            case 131: 
+                echo "Arifa";
+                break;
+            case 132: 
+                echo "Arife";
+                break;
+            case 133: 
+                echo "Arilíus";
+                break;
+            case 134: 
+                echo "Aríus";
+                break;
+            case 135: 
+                echo "Armando";
+                break;
+            case 136: 
+                echo "Ármann";
+                break;
+            case 137: 
+                echo "Arnaldur";
+                break;
+            case 138: 
+                echo "Arnar";
+                break;
+            case 139: 
+                echo "Arnberg";
+                break;
+            case 140: 
+                echo "Arnbergur";
+                break;
+            case 141: 
+                echo "Arnbjörn";
+                break;
+            case 142: 
+                echo "Arndór";
+                break;
+            case 143: 
+                echo "Arnej";
+                break;
+            case 144: 
+                echo "Arnejc";
+                break;
+            case 145: 
+                echo "Arnel";
+                break;
+            case 146: 
+                echo "Arnfinnur";
+                break;
+            case 147: 
+                echo "Arnfreyr";
+                break;
+            case 148: 
+                echo "Arngeir";
+                break;
+            case 149: 
+                echo "Arngils";
+                break;
+            case 150: 
+                echo "Arngrímur";
+                break;
             case 1: 
             echo 
             "Arni";
